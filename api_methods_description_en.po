@@ -14,8 +14,7 @@ msgstr ""
 "X-Generator: Weblate 4.3.1\n"
 
 msgid "Porta::SOAP::Schema::Customer::get_customer_info"
-msgstr ""
-"This method allows an API user to get a customer record from the database."
+msgstr "This method allows an API user to get a CUSTOMER record from the database"
 
 msgid "Porta::SOAP::Schema::Customer::get_customer_list"
 msgstr "This method allows an API user to get a list of customer records"
