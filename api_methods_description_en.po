@@ -18,3 +18,6 @@ msgstr "This method allows an API user to get a CUSTOMER record from the databas
 
 msgid "Porta::SOAP::Schema::Customer::get_customer_list"
 msgstr "This method allows an API user to get a list of customer records"
+
+msgid "Porta::SOAP::Schema::Customer::add_custome"
+msgstr ""
