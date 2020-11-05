@@ -25,3 +25,6 @@ msgstr "This method allows an API user to create a customer record in database"
 
 msgid "Porta::SOAP::Schema::Customer::add_customerr"
 msgstr "This method allows asdf3ad3"
+
+msgid "Porta::SOAP::Schema::Customer::remove_customerr"
+msgstr ""
