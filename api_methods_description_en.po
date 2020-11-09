@@ -20,6 +20,11 @@ msgstr ""
 msgid "Porta::SOAP::Schema::Customer::get_customer_list"
 msgstr "This method allows an API user to get a list of customer record"
 
+#  translator-comments
+#. extracted-comments
+#: reference…
+#, flag…
+#| msgid previous-untranslated-string
 msgid "Porta::SOAP::Schema::Customer::add_custome"
 msgstr "This method allows an API user to create a customer record in database"
 
