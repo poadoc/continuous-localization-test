@@ -14,22 +14,5 @@ msgstr ""
 "X-Generator: Weblate 4.3.1\n"
 
 msgid "Porta::SOAP::Schema::Customer::get_customer_info"
-msgstr ""
-"This method allows an API user to get a CUSTOMER record from the "
-"databasesadf123e23rfw2f3tfw23fw23fw3f"
+msgstr "This method allows an API user to get a CUSTOMER record from the"
 
-msgid "Porta::SOAP::Schema::Customer::get_customer_list"
-msgstr "This method allows an API user to get a list of customer record"
-
-#  translator-comments
-#. extracted-comments
-#: reference…
-#, flag…
-msgid "Porta::SOAP::Schema::Customer::add_custome"
-msgstr "This method allows an API user to create a customer record in database"
-
-msgid "Porta::SOAP::Schema::Customer::add_customerr"
-msgstr "This method allows asdf3ad3"
-
-msgid "Porta::SOAP::Schema::Customer::remove_customerr"
-msgstr "shares"

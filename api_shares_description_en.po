@@ -13,17 +13,5 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 4.3.1\n"
 
-msgid "Porta::SOAP::Schema::Customer::get_customer_info"
-msgstr ""
-"This method allows an API user to get a CUSTOMER record from the "
-"databasesadf123e23rfw2f3tfw23fw23fw3f"
-
 msgid "Porta::SOAP::Schema::Customer::get_customer_list"
 msgstr "This method allows an API user to get a list of customer record"
-
-#  translator-comments
-#. extracted-comments
-#: reference…
-#, flag…
-msgid "Porta::SOAP::Schema::Customer::add_custome"
-msgstr "This method allows an API user to create a customer record in database"
