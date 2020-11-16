@@ -2,10 +2,10 @@ msgid ""
 msgstr ""
 "Project-Id-Version: api_methods_description_en\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-11-02 10:07+0000\n"
-"Last-Translator: Weblate Admin <weblate.admin@example.com>\n"
-"Language-Team: English <http://weblate.example.com/projects/billing-admin/"
-"customer/en/>\n"
+"PO-Revision-Date: 2020-11-16 13:29+0000\n"
+"Last-Translator: Weblate Admin <admin@example.com>\n"
+"Language-Team: English <http://app.weblate.loc/projects/billing-admin/"
+"api_types_description/en/>\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -24,7 +24,6 @@ msgstr "This method allows an API user to get a list of customer record"
 #. extracted-comments
 #: reference…
 #, flag…
-#| msgid previous-untranslated-string
 msgid "Porta::SOAP::Schema::Customer::add_custome"
 msgstr "This method allows an API user to create a customer record in database"
 
@@ -32,4 +31,4 @@ msgid "Porta::SOAP::Schema::Customer::add_customerr"
 msgstr "This method allows asdf3ad3"
 
 msgid "Porta::SOAP::Schema::Customer::remove_customerr"
-msgstr ""
+msgstr "shares"
